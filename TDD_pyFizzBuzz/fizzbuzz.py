@@ -8,6 +8,6 @@ def fizzbuzz(number):
         return "Buzz"
     else: return number
 
-
-for i in range(1,100):
-    print(fizzbuzz(i))
+# 
+# for i in range(1,100):
+#     print(fizzbuzz(i))
