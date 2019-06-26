@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb32e990-9416-4cea-8d06-2dffafa98996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/valid_braces.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,21 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/persistence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/valid_braces.py">
+        <entry file="file://$PROJECT_DIR$/moving_zeros_to_the_end.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" selection-start-line="29" selection-start-column="2" selection-end-line="38" selection-end-column="69" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -59,6 +49,7 @@
         <option value="$PROJECT_DIR$/persistence.py" />
         <option value="$PROJECT_DIR$/peopleInBus.py" />
         <option value="$PROJECT_DIR$/valid_braces.py" />
+        <option value="$PROJECT_DIR$/moving_zeros_to_the_end.py" />
       </list>
     </option>
   </component>
@@ -131,8 +122,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.valid_braces">
-    <configuration name="Dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.moving_zeros_to_the_end">
+    <configuration name="moving_zeros_to_the_end" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moving_zeros_to_the_end.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.moving_zeros_to_the_end" />
         <item itemvalue="Python.valid_braces" />
         <item itemvalue="Python.peopleInBus" />
         <item itemvalue="Python.persistence" />
         <item itemvalue="Python.path_trail" />
-        <item itemvalue="Python.Dice" />
       </list>
     </recent_temporary>
   </component>
@@ -278,13 +269,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24159291" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24159291" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22920354" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22920354" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -405,8 +396,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/valid_braces.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-start-column="2" selection-end-line="38" selection-end-column="69" />
+        <state relative-caret-position="570">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moving_zeros_to_the_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
