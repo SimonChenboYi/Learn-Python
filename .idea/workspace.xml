@@ -13,10 +13,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sort_odd_even.py">
+        <entry file="file://$PROJECT_DIR$/repeat_char_recursion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="240">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/persistence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -52,6 +70,8 @@
         <option value="$PROJECT_DIR$/moving_zeros_to_the_end.py" />
         <option value="$PROJECT_DIR$/compare_elements_in_arrays.py" />
         <option value="$PROJECT_DIR$/sort_odd_even.py" />
+        <option value="$PROJECT_DIR$/Last_digit.py" />
+        <option value="$PROJECT_DIR$/repeat_char_recursion.py" />
       </list>
     </option>
   </component>
@@ -122,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FizzBuzz">
+  <component name="RunManager" selected="Python.repeat_char_recursion">
     <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="persistence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="repeat_char_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +218,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/persistence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repeat_char_recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.repeat_char_recursion" />
         <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python.moving_zeros_to_the_end" />
         <item itemvalue="Python.valid_braces" />
         <item itemvalue="Python.peopleInBus" />
-        <item itemvalue="Python.persistence" />
       </list>
     </recent_temporary>
   </component>
@@ -269,13 +289,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24096386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24096386" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3120482" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2759036" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -387,13 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/persistence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/path_trial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -408,6 +421,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sort_odd_even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-start-column="2" selection-end-line="30" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Last_digit.py" />
+    <entry file="file://$PROJECT_DIR$/persistence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/guess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -415,10 +443,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sort_odd_even.py">
+    <entry file="file://$PROJECT_DIR$/repeat_char_recursion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="240">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
